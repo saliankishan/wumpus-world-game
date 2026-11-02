@@ -12,6 +12,10 @@ Players explore a dangerous cave system where they must use environmental clues 
 
 Every move matters. One wrong step could lead to a deadly pit or the Wumpus!
 
+## 🎮 Play Online
+
+[**Play Hunt the Wumpus →**](https://saliankishan.github.io/wumpus-world-game/)
+
 ## ✨ Features
 
 * Interactive cave exploration.
