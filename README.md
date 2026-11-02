@@ -73,6 +73,17 @@ Your objective is to explore the cave, collect gold, eliminate the Wumpus, and s
 
 You can also interact with the cave using mouse or touch controls.
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+![Game Over](screenshots/game_over.png)
+
 ## 💻 Installation and Setup
 
 Follow these steps to run the project locally.
